@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Cognitive Ability Test",
+    "url": "https://www.shl.com/en/assessments/cognitive-ability/",
+    "description": "A general cognitive ability assessment measuring logical, numerical, and verbal reasoning.",
+    "duration": "20 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "Situational Judgment Test",
+    "url": "https://www.shl.com/en/assessments/situational-judgment/",
+    "description": "Assesses judgment and decision-making in work-related scenarios.",
+    "duration": "25 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "Behavioral"
+  },
+  {
+    "name": "Numerical Reasoning Test",
+    "url": "https://www.shl.com/en/assessments/numerical-reasoning/",
+    "description": "Measures ability to understand and analyze numerical data.",
+    "duration": "20 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "Verbal Reasoning Test",
+    "url": "https://www.shl.com/en/assessments/verbal-reasoning/",
+    "description": "Assesses ability to evaluate and interpret written information.",
+    "duration": "19 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "Personality Questionnaire",
+    "url": "https://www.shl.com/en/assessments/personality-questionnaire/",
+    "description": "Provides insight into behavioral styles and preferences at work.",
+    "duration": "25 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "Personality"
+  }
+]
